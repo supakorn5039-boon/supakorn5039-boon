@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Trinity Roots**
 
-- 🌱 I’m currently learning **Go Language,CI/CD**
+- 🌱 I’m currently learning **Odoo Framework,CI/CD**
 
 - 💬 Ask me about **ML,React-Native,MERN,NextJS,Computer-Vision**
 
