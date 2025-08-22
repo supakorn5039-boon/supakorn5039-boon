@@ -3,8 +3,6 @@
 <h3 align="center">I'm a Junior Software Enginner</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952gaymi4dss3jc0hy1b9h45je9fqqtcccvrzm4zs9r&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supakorn5039-boon&label=Profile%20views&color=0e75b6&style=flat" alt="supakorn5039-boon" /> </p>
-
 - 🔭 I’m currently working on **Fire Exit**
 
 - 🌱 I’m currently learning **Go,CI/CD**
